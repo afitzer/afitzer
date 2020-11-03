@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Alex Fitzgerald 👋
 
 - 🌱 I’m currently learning to program
 - 🤔 I’m looking for help with Python and Web Development
