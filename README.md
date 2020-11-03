@@ -2,4 +2,4 @@
 
 - 🌱 I’m currently learning to program
 - 🤔 I’m looking for help with Python and web development
-- ⚡ Fun fact: I work for a company that sells fresh Pickles :cucumber:. Check them out [Grillo's](www.grillos.com)
+- ⚡ Fun fact: I work for a company that sells clean, fresh Pickles :cucumber:. Check them out [Grillo's](www.grillos.com)
